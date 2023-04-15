@@ -7,7 +7,7 @@
 - 然后，按 Star 小星星就可以开始了！ 
 - 最后，在 Upload GSI 里展开，看 Download Link 链接，访问即可下载。 
 
-> 注意：由于上传 BitSend 已挂，已更换为 WeTransfer。但是有2g大小限制，需要设置仅跑Aonly或AB。
+> 注意：由于上传 BitSend 已挂，已更换为 WeTransfer。但是有2g大小限制(悲），需要设置仅跑Aonly或AB。
 
 ## 附：ErfanGSI支持的ROM ##
 > ROM_NAME里填一摸一样的，下的ROM也要一样；Generic是（类）原生的意思
